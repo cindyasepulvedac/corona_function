@@ -1,0 +1,9 @@
+azure-functions
+fastapi
+uvicorn
+numpy==1.26.4
+scikit-learn
+pillow
+pickle4
+python-multipart
+python-jose
